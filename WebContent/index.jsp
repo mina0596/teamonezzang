@@ -11,6 +11,7 @@
 <body>
 저장?
 하이?
+확인해보기
     <%@ include file="/module/top.jsp" %>		
     <%@ include file="/module/left.jsp" %>		 		 
     <%@ include file="/module/bottom.jsp" %>  

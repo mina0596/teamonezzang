@@ -12,6 +12,7 @@
 저장?
 하이?
 확인해보기
+다미쓰
     <%@ include file="/module/top.jsp" %>		
     <%@ include file="/module/left.jsp" %>		 		 
     <%@ include file="/module/bottom.jsp" %>  
